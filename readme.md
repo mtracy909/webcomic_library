@@ -30,7 +30,6 @@ I found these websites useful in developing this software:
 
 * [Python SQLite3](https://docs.python.org/3.13/library/sqlite3.html)
 * [Tutorials Point SQLite - Python](https://www.tutorialspoint.com/sqlite/sqlite_python.htm)
-*
 
 ## Future Work
 
